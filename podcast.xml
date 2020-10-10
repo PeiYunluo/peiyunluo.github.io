@@ -45,7 +45,7 @@
       <content:encoded><![CDATA[ <p>此页面为测试页面 </p>
  ]]></content:encoded>
       <dc:creator>peiyunluo@icloud.com</dc:creator>
-      <enclosure url="http://47.94.90.145:8181/?/podcast/tctyjxl-1.webm" length="26185120" type="audio/mpeg" />
+      <enclosure url="http://47.94.90.145:8181/?/podcast/tctyjxl-1.mp3" length="26185120" type="audio/mpeg" />
       <itunes:author>peiyunluo@icloud.com</itunes:author>
       <itunes:subtitle>测试页面随后会继续更新一些相声及其学习资料</itunes:subtitle>
       <itunes:summary>此页面为测试页面</itunes:summary>
