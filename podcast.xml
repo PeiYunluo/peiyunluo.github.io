@@ -7,19 +7,19 @@
      xmlns:psc="http://podlove.org/simple-chapters/"
      xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
   <channel>
-    <title>feed title</title>
+    <title>Misc</title>
     <description>this is subtitle</description>
     <link>https://peiyunluo.github.io/</link>
     <atom:link href="https://peiyunluo.github.io/podcast.xml" rel="self" type="application/rss+xml" />
     <copyright>peiyunluo.github.io</copyright>
     
-    <pubDate>Fri, 21 Apr 2017 10:20:00 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 10:20:00 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2020 03:01:36 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2020 03:01:36 GMT</lastBuildDate>
     <generator>Hexo v5.2.0</generator>
     <language>en-US</language>
     <managingEditor>peiyunluo@icloud.com (peiyunluo@icloud.com)</managingEditor>
     <image>
-      <title>feed title</title>
+      <title>Misc</title>
       <url>https://peiyunluo.github.io/TomorrowWillBeBetter.jpg</url>
       <link>https://peiyunluo.github.io/</link>
     </image>
@@ -37,7 +37,23 @@
     <itunes:explicit>clean</itunes:explicit>
     <rawvoice:subscribe feed="https://peiyunluo.github.io/podcast.xml" itunes="" />
     <item>
-      <title>铁齿铜牙纪晓岚</title>
+      <title>Misc-1</title>
+      <link>https://peiyunluo.github.io/2020/10/10/misc-1/</link>
+      <pubDate>Sat, 10 Oct 2020 03:01:36 GMT</pubDate>
+      <guid>https://peiyunluo.github.io/2020/10/10/misc-1/</guid>
+      <description>曹云金相声选段</description>
+      <content:encoded><![CDATA[ <p>曹云金相声选段</p>
+ ]]></content:encoded>
+      <dc:creator>peiyunluo@icloud.com</dc:creator>
+      <enclosure url="http://47.94.90.145:8181/?/podcast/Misc-1.mp3" length="26185120" type="audio/mpeg" />
+      <itunes:author>peiyunluo@icloud.com</itunes:author>
+      <itunes:subtitle>曹云金 刘云天 成长的烦恼， 曹云金从艺十周年-lBkaIwlKl0g</itunes:subtitle>
+      <itunes:summary>曹云金相声选段</itunes:summary>
+      <itunes:image href="https://peiyunluo.github.io/TomorrowWillBeBetter.jpg" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>00:41:33</itunes:duration>
+    </item><item>
+      <title>铁齿铜牙纪晓岚-1</title>
       <link>https://peiyunluo.github.io/2017/04/21/podcasttest/</link>
       <pubDate>Fri, 21 Apr 2017 10:20:00 GMT</pubDate>
       <guid>https://peiyunluo.github.io/2017/04/21/podcasttest/</guid>
