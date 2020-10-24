@@ -36,7 +36,22 @@
     </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
     <rawvoice:subscribe feed="https://peiyunluo.github.io/wlwz.xml" itunes="" />
-    <item>
+       <item>
+      <title>RelaxMusic</title>
+      <link>https://peiyunluo.github.io/2020/10/10/tctyjxl-2/</link>
+      <pubDate>Sat, 24 Oct 2020 04:59:40 GMT</pubDate>
+      <guid>https://peiyunluo.github.io/2020/10/10/tctyjxl-2/</guid>
+      <description>RelaxMusic</description>
+      <content:encoded><![CDATA[ <p>RelaxMusic</p>]]></content:encoded>
+      <dc:creator>peiyunluo@icloud.com</dc:creator>
+      <enclosure url="http://47.94.90.145:8181/?/podcast/RelaxMusic.mp3" length="224595968" type="audio/mpeg" />
+      <itunes:author>peiyunluo@icloud.com</itunes:author>
+      <itunes:subtitle>RelaxMusic</itunes:subtitle>
+      <itunes:summary>RelaxMusic</itunes:summary>
+      <itunes:image href="http://47.94.90.145:8181/?/podcast/review.jpg" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>03:53:57</itunes:duration>
+    </item><item>
       <title>武林外传1-4</title>
       <link>https://peiyunluo.github.io/2020/10/13/wlwz1-4/</link>
       <pubDate>Mon, 12 Oct 2020 23:14:53 GMT</pubDate>
