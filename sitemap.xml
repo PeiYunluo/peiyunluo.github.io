@@ -7,10 +7,10 @@
      xmlns:psc="http://podlove.org/simple-chapters/"
      xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
   <channel>
-    <title>尝试</title>
-    <description>尝试</description>
+    <title>IELTS</title>
+    <description>更新刘洪波《雅思词汇真经》中跟读的音频；后续可能会更新一些听力材料等。</description>
     <link>https://peiyunluo.github.io/</link>
-    <atom:link href="https://peiyunluo.github.io/wlwz.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peiyunluo.github.io/sitemap.xml" rel="self" type="application/rss+xml" />
     <copyright>peiyunluo.github.io</copyright>
     
     <pubDate>Mon, 12 Oct 2020 23:14:53 GMT</pubDate>
@@ -19,13 +19,13 @@
     <language>en-US</language>
     <managingEditor>peiyunluo@icloud.com (peiyunluo@icloud.com)</managingEditor>
     <image>
-      <title>尝试</title>
+      <title>雅思词汇真经音频</title>
       <url>https://peiyunluo.github.io/TomorrowWillBeBetter.jpg</url>
       <link>https://peiyunluo.github.io/</link>
     </image>
-    <itunes:summary>this is itunes summary。</itunes:summary>
+    <itunes:summary>将更新雅思词汇真经中音频，共22个单元</itunes:summary>
     <itunes:author>PeiWoWo</itunes:author>
-    <itunes:subtitle>Tomorrow will be better</itunes:subtitle>
+    <itunes:subtitle>裴窝窝的音频库</itunes:subtitle>
     <itunes:owner>
       <itunes:name>peiyunluo@icloud.com</itunes:name>
       <itunes:email>peiyunluo@icloud.com</itunes:email>
@@ -35,22 +35,22 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
-    <rawvoice:subscribe feed="https://peiyunluo.github.io/wlwz.xml" itunes="" />
+    <rawvoice:subscribe feed="https://peiyunluo.github.io/sitemap.xml" itunes="" />
     <item>
-      <title>相声</title>
+      <title>IELTS-Chapter-1</title>
       <link>https://peiyunluo.github.io/2020/10/13/wlwz1-4/</link>
       <pubDate>Mon, 12 Oct 2020 23:14:53 GMT</pubDate>
       <guid>https://peiyunluo.github.io/2020/10/13/wlwz1-4/</guid>
-      <description>相声10</description>
-      <content:encoded><![CDATA[ <h1 id="这是h1"><a href="#这是href" class="headerlink" title="武林外传 01【全集：第一集】：郭女侠怒砸同福店,佟掌柜妙点迷路人【HD高清完整版】-YJkVM1BNi-E"></a>武林外传 01【全集：第一集】：郭女侠怒砸同福店,佟掌柜妙点迷路人【HD高清完整版】-YJkVM1BNi-E</h1><h1 id="武林外传-02-掌柜的慰问装病者-跑堂人收拾寻衅女-mKT8fzrFqjE"><a href="#武林外传-02-掌柜的慰问装病者-跑堂人收拾寻衅女-mKT8fzrFqjE" class="headerlink" title="武林外传 02 掌柜的慰问装病者 跑堂人收拾寻衅女-mKT8fzrFqjE"></a>武林外传 02 掌柜的慰问装病者 跑堂人收拾寻衅女-mKT8fzrFqjE</h1><h1 id="武林外传-03-众伙计沦为小跟班-莫小贝建起八大派-M6XpofHFq7o"><a href="#武林外传-03-众伙计沦为小跟班-莫小贝建起八大派-M6XpofHFq7o" class="headerlink" title="武林外传 03 众伙计沦为小跟班 莫小贝建起八大派-M6XpofHFq7o"></a>武林外传 03 众伙计沦为小跟班 莫小贝建起八大派-M6XpofHFq7o</h1><h1 id="武林外传-04-李厨子智斗瞎老娘-白盗圣惨遇赌大王-qHpVN8OI5L4"><a href="#武林外传-04-李厨子智斗瞎老娘-白盗圣惨遇赌大王-qHpVN8OI5L4" class="headerlink" title="武林外传 04 李厨子智斗瞎老娘 白盗圣惨遇赌大王-qHpVN8OI5L4"></a>武林外传 04 李厨子智斗瞎老娘 白盗圣惨遇赌大王-qHpVN8OI5L4</h1> ]]></content:encoded>
+      <description>IELTS-Chapter-1---刘洪波</description>
+      <content:encoded></content:encoded>
       <dc:creator>peiyunluo@icloud.com</dc:creator>
-      <enclosure url="http://47.94.90.145:8181/?/podcast/Misc-10.mp3" length="34689024" type="audio/mpeg" />
+      <enclosure url="http://47.94.90.145:8181/?/IELTS/1.mp3" length="29520457" type="audio/mpeg" />
       <itunes:author>peiyunluo@icloud.com</itunes:author>
-      <itunes:subtitle>相声10</itunes:subtitle>
+      <itunes:subtitle>词汇真经Chapter1</itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://peiyunluo.github.io/TomorrowWillBeBetter.jpg" />
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:duration>00:36:07</itunes:duration>
+      <itunes:duration>00:30:45</itunes:duration>
     </item>
   </channel>
 </rss>
